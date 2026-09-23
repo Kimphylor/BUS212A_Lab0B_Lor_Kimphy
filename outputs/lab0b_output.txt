@@ -1,0 +1,5 @@
+Lab: Lab 0B
+Course: BUS 212A
+Student: Kimphy Lor
+Date: 2026-09-22
+Question: Can this analysis support a defensible decision?
